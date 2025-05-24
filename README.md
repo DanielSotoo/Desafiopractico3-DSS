@@ -1,2 +1,4 @@
-# Desaf-opr-ctico3-DSS
-Desafío Practico #3 DSS
+# Desafío práctico3-DSS
+
+-Salvador Enrique Delgado Peñate
+-Oscar Daniel Soto Jovel
